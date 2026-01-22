@@ -1,7 +1,8 @@
 ## Hi there 👋
+####Machine Learning & Data Science enthusiast 
 
-# 💫 About Me:
-🌱 I’m currently learning<br>Core Machine Learning algorithms and statistics with hands on practice<br>Data Science workflows<br>Preparing to explore scikit-learn and real-world ML pipelines<br><br>👯 I’m looking to collaborate on<br>Beginner to intermediate Python, Machine Learning & Data Science projects<br>Open-source projects related to data analysis, ML models, or AI applications<br>Python-based AI projects using Flask, OpenCV, or ML models<br><br>🤝 I’m looking for help with<br>Deploying ML models using Flask<br>Working with real-world datasets and end-to-end ML pipelines<br>Improving ML model performance & evaluation<br><br>💬 Ask me about<br>Python for Data Science and Machine Learning<br>Gesture-based systems using OpenCV & MediaPipe<br>Data Analysis with Pandas & NumPy<br>ML concepts explained in a simple, beginner-friendly way<br><br>⚡ Fun fact<br>I love turning machine learning ideas into real-time applications, like controlling system volume using hand gestures ✋🎧
+## 💫 About Me:
+🌱 <b>I’m currently learning<b><br>Core Machine Learning algorithms and statistics with hands on practice<br>Data Science workflows<br>Preparing to explore scikit-learn and real-world ML pipelines<br><br>👯 <b>I’m looking to collaborate on<b><br>Beginner to intermediate Python, Machine Learning & Data Science projects<br>Open-source projects related to data analysis, ML models, or AI applications<br>Python-based AI projects using Flask, OpenCV, or ML models<br><br>🤝 <b>I’m looking for help with<b><br>Deploying ML models using Flask<br>Working with real-world datasets and end-to-end ML pipelines<br>Improving ML model performance & evaluation<br><br>💬 <b>Ask me about<b><br>Python for Data Science and Machine Learning<br>Gesture-based systems using OpenCV & MediaPipe<br>Data Analysis with Pandas & NumPy<br>ML concepts explained in a simple, beginner-friendly way<br><br>⚡ <b>Fun fact<b><br>I love turning machine learning ideas into real-time applications, like controlling system volume using hand gestures ✋🎧
 
 
 ## 🌐 Socials:
